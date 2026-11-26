@@ -42,7 +42,12 @@ The project includes two dashboard pages:
 ## Project Files
 - `Sales_Analysis.ipynb` – Python data cleaning and analysis.
 - `Sales_Cleaned.csv` – Cleaned sales dataset.
+- `Sales_Analysis.sql` – SQL queries for business analysis.
+- `SQLQuery2.sql` – Additional SQL analysis queries.
+- `Sales_Performance_Analysis.pbix` – Interactive Power BI dashboard.
+- `Sales_Performance_Analysis_Final_Report (1).pdf` – Final project report.
 
+  
 ## Conclusion
 This project demonstrates practical skills in data cleaning, exploratory data analysis, SQL querying, data visualization, and business insight generation.
 
