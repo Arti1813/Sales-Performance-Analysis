@@ -37,7 +37,9 @@ An end-to-end Sales Performance Analysis project using Python, SQL Server, and P
 ## Power BI Dashboard
 The project includes two dashboard pages:
 - **Sales Overview:** KPIs, category sales, regional profit, sub-category profit, and segment analysis.
+- ![Sales Overview](Sales_Overview.png)
 - **Sales Insights:** Top 10 cities by sales, category profit, regional profit, and segment performance.
+- ![Sales Insights](Dashboard_Insights.png)
 
 ## Project Files
 - `Sales_Analysis.ipynb` – Python data cleaning and analysis.
